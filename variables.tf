@@ -29,9 +29,9 @@ variable "instance_type" {
    default     = "t2.micro"
 }
 
-variable "name_tag" {
+/*variable "name_tag" {
    type        = string
    description = "Name of the EC2 instance"
  #  default     = ""
 #default     = "${params.EC2_NAME}"
-}
+}*/
